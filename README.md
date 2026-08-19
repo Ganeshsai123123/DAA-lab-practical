@@ -20,4 +20,10 @@ Max Heap Sort is an efficient and reliable sorting technique. The program demons
 PRACTICAL 4
 SUMMARY:this program demonstrate iterative and recursive approaches to calculate the factorial of a user-given number. It measures the 
 execution time f both methods and displays their time and space complexities.
-CONCLUTION:The iterative method is more memory efficient because it uses O(1) space,while the recursive method uses O(n) stack space. The program helps compare the performance and memory requirements of iterative and recursive functions.
+CONCLUTION:
+The iterative method is more memory efficient because it uses O(1) space,while the recursive method uses O(n) stack space. The program helps compare the performance and memory requirements of iterative and recursive functions.
+PRACTICAL 7
+SUMMARY:The Coin Exchange program finds the minimum number of coins required to make a given amount using the available coin denominations
+t uses an algorithm to select coins efficiently and takes user input for the amount and coin values.
+CONCLUTION:
+The Coin Exchange program demonstrates how algorithms can solve the coin change problem efficiently.it tells how the programm works in finding the amount.

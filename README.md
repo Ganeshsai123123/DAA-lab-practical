@@ -27,3 +27,6 @@ SUMMARY:The Coin Exchange program finds the minimum number of coins required to 
 t uses an algorithm to select coins efficiently and takes user input for the amount and coin values.
 CONCLUTION:
 The Coin Exchange program demonstrates how algorithms can solve the coin change problem efficiently.it tells how the programm works in finding the amount.
+PRACTICAL 5
+SUMMARY:Knapsack problem is an optimization problem where a set of items each having a weight and profit, must be selected to maximize the total profit without exceeding the given knapsack capacity.Using Dynamic Programming, the problem is divided into smaller subproblems and their solutions are stored in a table to avoid repeated calculations.
+CONCLUTION:The Dynamic Programming approach provides an efficient way to solve the 0/1 Knapsack problem and guarantees the maximum possible profit for the given capacity.The time complexity of the algorithm is O(n × W) and the space complexity is O(n × W).

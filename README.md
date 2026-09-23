@@ -30,3 +30,8 @@ The Coin Exchange program demonstrates how algorithms can solve the coin change 
 PRACTICAL 5
 SUMMARY:Knapsack problem is an optimization problem where a set of items each having a weight and profit, must be selected to maximize the total profit without exceeding the given knapsack capacity.Using Dynamic Programming, the problem is divided into smaller subproblems and their solutions are stored in a table to avoid repeated calculations.
 CONCLUTION:The Dynamic Programming approach provides an efficient way to solve the 0/1 Knapsack problem and guarantees the maximum possible profit for the given capacity.The time complexity of the algorithm is O(n × W) and the space complexity is O(n × W).
+PRACTICAL 8
+SUMMARY:BFS (Breadth First Search) is a graph traversal algorithm that visits vertices level by level. It uses a queue to store vertices and a visited set to avoid repeated visits. Its time complexity is O(V + E)
+CONCLUTION:BFS is a simple and efficient method for traversing graphs and is useful for finding shortest paths in unweighted graphs.
+SUMMARY:DFS (Depth First Search) is a graph traversal algorithm that visits vertices by going as deep as possible before backtracking. It uses recursion or a stack and a visited set to avoid repeated visits. Its time complexity is O(V + E).
+CONCLUTION:DFS is a simple and efficient method for graph traversal, path finding, and exploring connected components.

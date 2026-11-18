@@ -35,3 +35,6 @@ SUMMARY:BFS (Breadth First Search) is a graph traversal algorithm that visits ve
 CONCLUTION:BFS is a simple and efficient method for traversing graphs and is useful for finding shortest paths in unweighted graphs.
 SUMMARY:DFS (Depth First Search) is a graph traversal algorithm that visits vertices by going as deep as possible before backtracking. It uses recursion or a stack and a visited set to avoid repeated visits. Its time complexity is O(V + E).
 CONCLUTION:DFS is a simple and efficient method for graph traversal, path finding, and exploring connected components.
+PRACTICAL 10
+SUMMARY:Kruskal's algorithm is a greedy algorithm used to find the Minimum Spanning Tree (MST) by selecting the edges with the smallest weights without forming cycles.
+CONCLUTION:Thus, Kruskal's algorithm finds the minimum-cost spanning tree with a time complexity of O(E log E).
